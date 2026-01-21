@@ -32,7 +32,7 @@
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=akil-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
     <!-- LeetCode Stats -->
-    <img src="https://leetcard.jacoblin.cool/akil-07?theme=tokyonight&font=Outfit&ext=heatmap" height="180" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/akil_07?theme=tokyonight&font=Outfit&ext=heatmap" height="180" alt="LeetCode Stats" />
   </div>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akil-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
