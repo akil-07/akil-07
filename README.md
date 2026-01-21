@@ -4,10 +4,10 @@
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USER">
+  <a href="https://www.linkedin.com/in/akil-s-07">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:akils.07@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/akil-07">
@@ -20,7 +20,7 @@
 
 <h2 align="center">⚡ Tech Stack</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,python,git,github,vscode,vim&perline=10" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,python,git,github,vscode,vim,firebase,mongodb&perline=12" alt="Tech Stack" />
 </div>
 
 <br />
@@ -28,7 +28,7 @@
 <!-- STATS SECTION -->
 <h2 align="center">🔥 Coding Stats</h2>
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px;">
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- GitHub Stats -->
     <img src="https://github-readme-stats.vercel.app/api?username=akil-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
     <!-- LeetCode Stats -->
@@ -43,11 +43,11 @@
 <!-- PROJECTS SECTION -->
 <h2 align="center">🚀 Featured Projects</h2>
 
-| **Project A** | **Project B** | **Project C** |
+| **Hostel Approval System** | **Exam Timetable Scheduler** | **Hostel Leaving App** |
 |:---:|:---:|:---:|
-| <img src="https://images.unsplash.com/photo-1555099962-4199c345e5dd?auto=format&fit=crop&w=300&q=80" width="200" /> | <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=300&q=80" width="200" /> | <img src="https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&w=300&q=80" width="200" /> |
-| **Simple Web App** <br/> _React, Node.js_ | **Data Dashboard** <br/> _Python, Streamlit_ | **Portfolio Site** <br/> _HTML, CSS, JS_ |
-| [View Code](#) | [View Code](#) | [View Code](#) |
+| <img src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=300&q=80" width="250" height="150" style="object-fit:cover; border-radius:10px;" /> | <img src="https://images.unsplash.com/photo-1506784983877-45594efa4cbe?auto=format&fit=crop&w=300&q=80" width="250" height="150" style="object-fit:cover; border-radius:10px;" /> | <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=300&q=80" width="250" height="150" style="object-fit:cover; border-radius:10px;" /> |
+| **Streamlines hostel permissions** <br/> _React, Node.js_ | **Automated Exam Scheduling** <br/> _Python, Algorithms_ | **Digital Leave Applications** <br/> _Web Stack, Firebase_ |
+| [💻 Code](https://github.com/akil-07/sec-Hostel-Approval) • [🌐 Live](https://akil-07.github.io/sec-Hostel-Approval/) | [💻 Code](https://github.com/akil-07/sec-exam-timetable) • [🌐 Live](https://akil-07.github.io/sec-exam-timetable/) | [💻 Code](https://github.com/akil-07/hostel-leaving-application) • [🌐 Live](https://akil-07.github.io/hostel-leaving-application/) |
 
 <br />
 
