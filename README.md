@@ -30,7 +30,6 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
     <!-- GitHub Stats -->
-    <img src="https://github-readme-stats.vercel.app/api?username=akil-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
     <!-- LeetCode Stats -->
     <img src="https://leetcard.jacoblin.cool/akil_07?theme=tokyonight&font=Outfit&ext=heatmap" height="180" alt="LeetCode Stats" />
   </div>
