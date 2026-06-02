@@ -16,7 +16,7 @@
 
 <br/>
 
-<p align="center">
+<p align="center"> 
   <!-- Neon Divider -->
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="15" alt="Neon Divider" />
 </p>
