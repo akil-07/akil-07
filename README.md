@@ -88,6 +88,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHo5bG16cGp4MXJkdjBwOTJlM2Z4a29tMHpodnZ6N214NnZva2MwMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H2dmCtNyFoJZS/giphy.gif" width="300" alt="Projects GIF" style="border-radius: 15px;" />
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="15" alt="Neon Divider" />
 </p>
