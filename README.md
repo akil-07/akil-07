@@ -67,6 +67,20 @@
 
 <br/>
 
+<!-- GitHub Profile Summary Cards -->
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akil-07&theme=tokyonight" alt="Profile Details" width="100%" />
+</div>
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akil-07&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akil-07&theme=tokyonight" alt="Top Languages by Commits" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akil-07&theme=tokyonight" alt="GitHub Stats Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akil-07&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+<br/>
+
 <div align="center">
   <h3>Me when the code actually runs:</h3>
   <!-- Popcat GIF -->
