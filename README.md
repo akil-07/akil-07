@@ -62,7 +62,7 @@
 <div align="center">
   <!-- Dark neon/synthwave stats to match the vibe -->
   <img src="https://github-readme-stats.vercel.app/api?username=akil-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akil-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=akil-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
@@ -76,7 +76,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akil-07&theme=tokyonight" alt="Top Languages by Repo" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akil-07&theme=tokyonight" alt="Top Languages by Commits" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=akil-07&theme=tokyonight" alt="GitHub Stats Summary" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akil-07&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=akil-07&theme=tokyonight&utcOffset=5" alt="Productive Time" />
 </div>
 
 <br/>
