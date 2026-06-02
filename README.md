@@ -60,8 +60,7 @@
 ## 📊 Proof I'm Not Just A Fraud
 
 <div align="center">
-  <!-- Dark neon/synthwave stats to match the vibe -->
-  <img src="https://github-readme-stats.vercel.app/api?username=akil-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <!-- Streak stats -->
   <img src="https://streak-stats.demolab.com/?user=akil-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
