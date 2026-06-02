@@ -95,9 +95,10 @@
 
 | 🚀 Project | 🧠 What It Does | 🛠️ Built With |
 |---|---|---|
-| **[Project Name 1](link)** | One-liner description goes here | `React` `Node.js` `MongoDB` |
-| **[Project Name 2](link)** | One-liner description goes here | `Python` `Flask` `PostgreSQL` |
-| **[Project Name 3](link)** | One-liner description goes here | `Next.js` `Tailwind` `Firebase` |
+| **[Hostel Bites 🍽️](https://hostel-application-omega.vercel.app/admin)** | Admin dashboard for managing hostel meal bookings & operations | `React` `Vite` `Vercel` |
+| **[Telegram Bot 🤖](https://www.linkedin.com/posts/akil-sudhagar-75629b36b_nodejs-playwright-automation-activity-7461990826680852480-5NPW)** | Headless bot with 0-latency slot bookings, bunk calculator & class reminders | `Node.js` `Playwright` `GitHub Actions` |
+| **[MyNotion ✦](https://my-progress-one.vercel.app/)** | Personal Notion-like workspace to write, plan & organise everything | `React` `Vite` `Vercel` |
+| **[SEC Hostel Portal 🏫](https://sec-hostel-approval.vercel.app/)** | Digital hostel approval system for SEC with PWA support | `React` `Vite` `PWA` |
 
 <br/>
 
