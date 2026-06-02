@@ -1,55 +1,117 @@
+<!-- Unhinged Gen Z Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I%27m%20Akil%20|%20Full%20Stack%20Developer&descAlignY=51&descAlign=62" alt="Header" width="100%"/>
+  <!-- Custom GIF at top -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWQybHNzY3prZG04bGN0a2NqcXdhbHkxZ2htaDFuNng1a3U4M3l0cyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/ASd0Ukj0y3qMM/giphy.gif" width="250" alt="Custom GIF" style="border-radius: 15px; margin-bottom: 20px;" />
+  
+  <h1>Sup. I'm Akil 🗿</h1>
+  <h3>Tech Enthusiast 🗿| Professional Delulu 💅 |GenAI Speicalist</h3>
+  
+  <br/>
+
+  <!-- Goofy typing animation with Gen Z brainrot quotes -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=20&pause=1000&color=FF0055&center=true&vCenter=true&width=700&lines=Pushing+to+main+because+I'm+built+different+🗿;ChatGPT+is+literally+carrying+my+career+💀;Surviving+on+iced+coffee+and+pure+delusion+💅✨;Let+him+cook+🔥+(the+code+is+literally+on+fire);It's+giving...+syntax+error+🤡;Bro+is+lost+in+the+sauce+(the+sauce+is+documentation)+💀" alt="Typing SVG" />
+  </a>
 </div>
 
-<div align="center">
+<br/>
 
-  <a href="https://www.linkedin.com/in/akil-sudhagar-75629b36b/">
+<p align="center">
+  <!-- Neon Divider -->
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="15" alt="Neon Divider" />
+</p>
+
+## 💅 The Lore (About Me)
+
+<!-- Vibing Cat head-bop -->
+<img src="https://media.giphy.com/media/GeimqsH0TLDt4tScGw/giphy.gif" width="300" align="left" alt="Vibing Cat" style="border-radius: 15px; margin-right: 20px;" />
+
+- 🔭 **Currently building:** Something that'll either be on Product Hunt or Stack Overflow — no in between
+- 🌱 **Currently learning:** System design by day, questioning my life choices by night
+- 🤝 **Open to collab on:** Projects that ship, not just sit in Notion forever
+- 💬 **Ask me about:** Why your side project needs a database migration at 2am
+- ⚡ **Fun fact:** My git commits tell a better story than my resume
+
+<br/>
+<br/>
+<br/>
+
+## 🛠️ The Stack (What I Cook With)
+
+<p align="center">
+  <!-- Custom GIF below tech icons -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNms0ZnJ6czg3ZWVnZnk4a203eWhzejl2ejdnMGEzMmphdnNqNnV3OSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bdIHP4CqxvdUe2MJH8/giphy.gif" width="300" align="left" alt="Custom GIF" style="margin-right: 25px; border-radius: 10px;" />
+</p>
+
+<!-- Skill icons -->
+<p align="left">
+  <br/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,tailwind,docker,vscode,git,github,discord&perline=8" alt="My Skills" />
+  </a>
+</p>
+
+<br clear="all" />
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="15" alt="Neon Divider" />
+</p>
+
+## 📊 Proof I'm Not Just A Fraud
+
+<div align="center">
+  <!-- Dark neon/synthwave stats to match the vibe -->
+  <img src="https://github-readme-stats.vercel.app/api?username=akil-07&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akil-07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <h3>Me when the code actually runs:</h3>
+  <!-- Popcat GIF -->
+  <img src="https://media.giphy.com/media/2FazcqeaProK07KyQ/giphy.gif" width="250" alt="Popcat GIF" style="border-radius: 10px;" />
+</div>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="15" alt="Neon Divider" />
+</p>
+
+## 🏗️ Stuff I Actually Shipped (Real, No Cap)
+
+
+| 🚀 Project | 🧠 What It Does | 🛠️ Built With |
+|---|---|---|
+| **[Project Name 1](link)** | One-liner description goes here | `React` `Node.js` `MongoDB` |
+| **[Project Name 2](link)** | One-liner description goes here | `Python` `Flask` `PostgreSQL` |
+| **[Project Name 3](link)** | One-liner description goes here | `Next.js` `Tailwind` `Firebase` |
+
+<br/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" height="15" alt="Neon Divider" />
+</p>
+
+
+## 📞 Slide in my DMs (Respectfully)
+
+<p align="center">
+  <a href="https://twitter.com/YOUR_TWITTER">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:akilsudhagar7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/akil-07">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+</p>
 
-</div>
-
-<br />
-
-<h2 align="center">⚡ Tech Stack</h2>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,nodejs,python,git,github,vscode,vim,firebase,mongodb&perline=12" alt="Tech Stack" />
-</div>
-
-<br />
-
-<!-- STATS SECTION -->
-<h2 align="center">🔥 Coding Stats</h2>
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <!-- GitHub Stats -->
-    <!-- LeetCode Stats -->
-    <img src="https://leetcard.jacoblin.cool/akil_07?theme=tokyonight&font=Outfit&ext=heatmap" height="180" alt="LeetCode Stats" />
-  </div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akil-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="Top Languages" />
-</div>
-
-<br />
-
-<!-- PROJECTS SECTION -->
-<h2 align="center">🚀 Featured Projects</h2>
-
-| **Hostel Approval System** | **Exam Timetable Scheduler** | **Hostel Leaving App** |
-|:---:|:---:|:---:|
-| <img src="https://images.unsplash.com/photo-1555854877-bab0e564b8d5?auto=format&fit=crop&w=300&q=80" width="250" height="150" style="object-fit:cover; border-radius:10px;" /> | <img src="bunk-tracker.png" width="250" height="150" style="object-fit:cover; border-radius:10px;" /> | <img src="https://images.unsplash.com/photo-1434030216411-0b793f4b4173?auto=format&fit=crop&w=300&q=80" width="250" height="150" style="object-fit:cover; border-radius:10px;" /> |
-| **Streamlines hostel permissions** <br/> _React, Node.js_ | **Automated Exam Scheduling** <br/> _Python, Algorithms_ | **Bunk Tracker** <br/> _Web Stack, Firebase_ |
-| [💻 Code](https://github.com/akil-07/sec-Hostel-Approval) • [🌐 Live](https://akil-07.github.io/sec-Hostel-Approval/) | [💻 Code](https://github.com/akil-07/sec-exam-timetable) • [🌐 Live](https://akil-07.github.io/sec-exam-timetable/) | [💻 Code](https://github.com/akil-07/BUNK-TRACKER-SEC) • [🌐 Live](https://akil-07.github.io/BUNK-TRACKER-SEC/) |
-
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHhnNnB2ZHA2NGhuOGZlY25uZW44Y3h0NGZ5amx2Z3p4MnF2bzlvdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/vFGNzRauaetdn6TOKz/giphy.gif" width="300" alt="DMs GIF" style="border-radius: 15px;" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><i>Pushing straight to main and going to sleep. Stay toxic. ✌️💀</i></p>
 </div>
